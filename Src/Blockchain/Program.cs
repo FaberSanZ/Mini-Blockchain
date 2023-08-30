@@ -33,7 +33,7 @@ namespace Blockchain
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("");
         }
     }
 }
